@@ -1,0 +1,8 @@
+# Project exclude paths
+target/
+out/
+
+.idea
+.metals
+
+.scala-build
